@@ -78,15 +78,15 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedRayeneRomdhane&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedRayeneRomdhane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRayeneRomdhane&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedRayeneRomdhane&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MohamedRayeneRomdhane&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=MohamedRayeneRomdhane&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -96,13 +96,18 @@
 
 <div align="center">
 
-[![Chkobba](https://github-readme-stats.vercel.app/api/pin/?username=MohamedRayeneRomdhane&repo=chkobba&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/MohamedRayeneRomdhane/chkobba)
-&nbsp;&nbsp;
-[![GetClipped](https://github-readme-stats.vercel.app/api/pin/?username=MohamedRayeneRomdhane&repo=GetClipped&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/MohamedRayeneRomdhane/GetClipped)
+| 🃏 Chkobba | ✂️ GetClipped |
+|---|---|
+| Real-time web implementation of the Tunisian card game — multiplayer rooms, WebSocket, E2E tests | CLI tool to clip & manage Git repositories |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [→ View Repo](https://github.com/MohamedRayeneRomdhane/chkobba) | [→ View Repo](https://github.com/MohamedRayeneRomdhane/GetClipped) |
 
 </div>
+
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedRayeneRomdhane&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
